@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tabula/static/css/main.4a16aeb0.css",
+    "main.css": "/tabula/static/css/main.25aca777.css",
     "main.js": "/tabula/static/js/main.a77f4c81.js",
     "static/js/787.28cb0dcd.chunk.js": "/tabula/static/js/787.28cb0dcd.chunk.js",
     "static/media/tabula-icon-small.png": "/tabula/static/media/tabula-icon-small.3918af4170e72f6a8715.png",
     "index.html": "/tabula/index.html",
-    "main.4a16aeb0.css.map": "/tabula/static/css/main.4a16aeb0.css.map",
+    "main.25aca777.css.map": "/tabula/static/css/main.25aca777.css.map",
     "main.a77f4c81.js.map": "/tabula/static/js/main.a77f4c81.js.map",
     "787.28cb0dcd.chunk.js.map": "/tabula/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a16aeb0.css",
+    "static/css/main.25aca777.css",
     "static/js/main.a77f4c81.js"
   ]
 }
