@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tabula/static/css/main.e497c6e6.css",
-    "main.js": "/tabula/static/js/main.f1251b2f.js",
-    "static/js/787.28cb0dcd.chunk.js": "/tabula/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/tabula/index.html",
-    "main.e497c6e6.css.map": "/tabula/static/css/main.e497c6e6.css.map",
-    "main.f1251b2f.js.map": "/tabula/static/js/main.f1251b2f.js.map",
-    "787.28cb0dcd.chunk.js.map": "/tabula/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "./static/css/main.e497c6e6.css",
+    "main.js": "./static/js/main.fef424bc.js",
+    "static/js/787.28cb0dcd.chunk.js": "./static/js/787.28cb0dcd.chunk.js",
+    "index.html": "./index.html",
+    "main.e497c6e6.css.map": "./static/css/main.e497c6e6.css.map",
+    "main.fef424bc.js.map": "./static/js/main.fef424bc.js.map",
+    "787.28cb0dcd.chunk.js.map": "./static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e497c6e6.css",
-    "static/js/main.f1251b2f.js"
+    "static/js/main.fef424bc.js"
   ]
 }
